@@ -3,14 +3,14 @@
         {
             "name": "stm32f107",
             "includePath": [
-                "d:\\work\\user\\stm32\\stm32f107\\Core\\Inc",
-                "d:\\work\\user\\stm32\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\work\\user\\stm32\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\work\\user\\stm32\\stm32f107\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\work\\user\\stm32\\stm32f107\\Drivers\\CMSIS\\Include",
-                "d:\\work\\user\\stm32\\stm32f107\\MDK-ARM",
-                "d:\\work\\user\\stm32\\stm32f107\\Core\\Src",
-                "d:\\work\\user\\stm32\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "d:\\work\\user\\stm32f107\\Core\\Inc",
+                "d:\\work\\user\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "d:\\work\\user\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "d:\\work\\user\\stm32f107\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "d:\\work\\user\\stm32f107\\Drivers\\CMSIS\\Include",
+                "d:\\work\\user\\stm32f107\\MDK-ARM",
+                "d:\\work\\user\\stm32f107\\Core\\Src",
+                "d:\\work\\user\\stm32f107\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
